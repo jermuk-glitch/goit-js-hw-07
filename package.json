@@ -1,0 +1,12 @@
+{
+  "name": "goit-js-hw-07",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GoIT JS homework 7 — DOM & Events",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
